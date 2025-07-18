@@ -1,22 +1,3 @@
-// import React from 'react';
-
-// function OrderList({ orders }) {
-//   return (
-//     <div>
-//       <h3>Orders</h3>
-//       <ul>
-//         {orders.map(order => (
-//           <li key={order.id}>
-//             [{order.type.toUpperCase()}] at ${order.price} - {order.status}
-//           </li>
-//         ))}
-//       </ul>
-//     </div>
-//   );
-// }
-
-// export default OrderList;
-
 import React from 'react';
 
 function OrderList({ orders }) {
