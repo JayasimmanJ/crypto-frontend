@@ -1,16 +1,3 @@
-// import React from 'react';
-
-// function WalletInfo({ wallet, ethHolding }) {
-//   return (
-//     <>
-//       <p><strong>Wallet Balance:</strong> ${wallet.usdt}</p>
-//       <p><strong>ETH Holding:</strong> {ethHolding} ETH</p>
-//     </>
-//   );
-// }
-
-// export default WalletInfo;
-
 import React from 'react';
 
 function WalletInfo({ wallet, ethHolding }) {
